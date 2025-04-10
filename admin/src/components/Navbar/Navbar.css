@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    box-shadow: 0 0 10px 0 rgb(130, 230, 197);
+}
+.navbar .outerlogo{
+    display:flex ;
+    justify-content: center;
+    align-items:center;
+    font-size: 40px;
+    color: tomato;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.navbar .profile{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+}
